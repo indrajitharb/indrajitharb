@@ -18,5 +18,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=indrajitharb&icon=2&color=3)](https://visitcount.itsvg.in)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
