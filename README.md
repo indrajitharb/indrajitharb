@@ -11,9 +11,9 @@
 # 📊 GitHub Stats:
 <a href="http://www.github.com/indrajitharb"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=indrajitharb&show_icons=true&hide=&count_private=true&title_color=4AB197&text_color=ffffff&icon_color=4AB197&bg_color=1A2B34&hide_border=true&show_icons=true" alt="Indrajith Arb's GitHub stats" /></a><a href="http://www.github.com/indrajitharb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=indrajitharb&stroke=ffffff&background=1A2B34&ring=4AB197&fire=4AB197&currStreakNum=ffffff&currStreakLabel=c9cacc&sideNums=4AB197&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=indrajitharb&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=indrajitharb&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=indrajitharb&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=indrajitharb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=indrajitharb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=indrajitharb)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
