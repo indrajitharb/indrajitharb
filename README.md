@@ -21,6 +21,6 @@
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 <li align="center">
-<a href="https://www.buymeacoffee.com/indrajitharb"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/></a>
+<a href="https://www.buymeacoffee.com/indrajitharb"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="300"/></a>
 </li>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
