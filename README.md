@@ -1,6 +1,7 @@
 ### Hi there 👋
-
+<center>
 # 💫indrajith arb
+</center>
 🔭 Co-founder of Oronium<br>🤝 Full Stack Developer <br>🌱 Graphic Designer<br>💬 Think Now, All we have is now<br>⚡ You should get the orange soda!
 
 
