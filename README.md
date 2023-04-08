@@ -15,10 +15,10 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=indrajitharb&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=indrajitharb&theme=dark&hide_border=false)<br/> -->
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=indrajitharb&theme=dark&border_color=4AB197&&hide_border=true&include_all_commits=true&count_private=true&bg_color=1A2B34&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?  username=indrajitharb&theme=dark&border_color=4AB197&&hide_border=true&include_all_commits=true&count_private=true&bg_color=1A2B34&layout=compact)
 
 ## 🐦 Latest Tweet
-  [![](https://gtce.itsvg.in/api?username=indrajitharb)](https://github.com/VishwaGauravIn/github-twitter-card-embed&border_color=4AB197)
+  [![](https://gtce.itsvg.in/api?username=indrajitharb)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 
 ---
