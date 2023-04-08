@@ -20,6 +20,6 @@
 [![](https://visitcount.itsvg.in/api?id=indrajitharb&icon=2&color=3)](https://visitcount.itsvg.in)
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-<a href="https://www.buymeacoffee.com/indrajitharb"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/indrajitharb"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" align="center"/></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
