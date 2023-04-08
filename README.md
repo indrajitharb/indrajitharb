@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 Co-founder of Oronium<br>🤝 Full Stack Developer <br>🌱 Graphic Designer<br>💬 Ask me about<br>⚡ You should get the orange soda!
+🔭 Co-founder of Oronium<br>🤝 Full Stack Developer <br>🌱 Graphic Designer<br>💬 Think Now, All we have is now<br>⚡ You should get the orange soda!
 
 
 ## 🌐 Socials:
