@@ -27,7 +27,7 @@
 
 
 
-<li align="center">
+<li align="left">
 <a href="https://www.buymeacoffee.com/indrajitharb"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="300"/></a>
 </li>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
